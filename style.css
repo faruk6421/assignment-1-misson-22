@@ -1,0 +1,187 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.top-banner{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.top-part{
+    width:40%;
+    float: left;
+    margin: 65px 30px 0px 83px;
+    padding-left: 2%;  
+}
+.top-header{
+    padding-left: 14px;
+    font-size: 46px;
+    line-height: 58px;
+    margin: 50px 0px 25px 0px;
+    border-left: 7px solid #2ad21b;
+}
+.top-header samp{
+    color: orange;
+}
+.top-img{
+    width: 400px;
+    height: 409px;
+    margin-left: 38px;
+    margin-top: 20px;
+}
+.top-details{
+    font-size: 14px;
+    margin: 30px 0px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(45deg, #37813a, #13ff13);
+    padding: 5px 35px;
+    border-radius: 5px;
+}
+.top-left-end{
+    margin-top: 80px;
+    font-weight: 700;
+}
+.pro-h{
+    text-align: center;
+    font-size: 39px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.pro-h span{
+    color: red;
+}
+.product-main{
+    
+    display: flex;
+    margin:3%;
+}
+.product-1{
+    width:30%;
+    background: #e9e9e9;
+    padding: 15px;
+    border-radius: 19px;
+}
+.product-2{
+    width:30%;
+    background: #ffe1e1;
+    padding: 15px;
+    border-radius: 19px;
+    margin-left: 15px;
+}
+.product-3{
+    width:30%;
+    background: #dcfbe2;
+    padding: 15px;
+    border-radius: 19px;
+    margin-left: 15px;
+}
+.pro{
+    width:200px;
+    height: 150px;
+}
+.skill-side{
+   display: flex;
+   margin: 100px 41px;
+}
+.skill-2{
+    margin: 35px 0 0 70px;
+}
+
+.skill-1 img{
+    width: 450px;
+    height: 330px;
+}
+.skill-head{
+    font-weight: 700;
+    font-size: 40px;
+    text-transform: capitalize;
+    margin: 15px 0;
+}
+.skill-p{
+    margin: 0px 90px 50px 0px;
+}
+.education-main{
+    display: flex;
+    margin: 100px 41px;
+}
+.education{
+    margin: 15px 20px 0px 0px;
+}
+.education-1{
+    width: 40%;
+    margin-left: 3%;
+}
+.education-2{
+    width: 40%;
+    margin-left: 3%;
+}
+.education img{
+    width: 450px;
+    height: 330px;
+}
+.edu-head{
+    margin-top: 60px;
+    font-weight: 700;
+    font-size: 40px;
+    text-transform: capitalize;
+    margin: 15px 0;
+}
+.edu-more{
+    margin: 0px 90px 50px 0px;
+}
+.footer{
+    background: #525252;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+.footer h2{
+    font-family: Bernard MT Condensed;
+}
+.footer h2 span{
+    color: rgb(0, 0, 0);
+}
+.footer p{
+    font-size: 10px;
+}
+.middle-banner{
+    margin: 0px 67px;
+}
+.middle-4 form{
+    font-size: 25px;
+    color: #000000;
+    text-align: center;
+}
+.f1{
+    height: 27px;
+    font-size: 17px;
+    width: 400px;
+    margin: 5px 67px;
+}
+.f2{
+    height: 27px;
+    font-size: 17px;
+    width: 400px;
+    margin: 5px 3px 5px 61px;
+}
+.form-btn{
+    width: 117px;
+    font-size: 17px;
+    padding: 10px;
+    color: #ffffff;
+    background: #06255b;
+    border-radius: 7px;
+    margin-left: 10px;
+}
+
+.form h1{
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #379339;
+    text-align: center;
+}
+.form{
+    margin: 5px 0 40px 37px;
+}
